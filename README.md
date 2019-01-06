@@ -1,4 +1,4 @@
-# Computer-Vision Assignments
+## Computer-Vision Assignments
 
 * Assignment 1 :- Image Formation 
 * Assignment 2 :- Mean Shift Segmentor & Selective Search Proposal Generator
